@@ -1,4 +1,4 @@
-//burgermenu_esv2 by EMpty SOul [V 2.2 hardcode-version]
+//burgermenu_esv2 by EMpty Soul [V 2.2 hardcode-version]
 
 
 
